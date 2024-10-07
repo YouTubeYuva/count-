@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.increase {
+    width: 50px;
+    height: 50px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.reset{
+    width: 50px;
+    height: 50px;
+    background-color: #f0f0f0;
+    color: hwb(256 11% 37%);
+}
+
+.decrease{
+    width: 50px;
+    height: 50px;
+    background-color: #f44336;
+    color: white;
+}
